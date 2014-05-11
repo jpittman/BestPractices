@@ -1,6 +1,8 @@
 
 This is going to be a little long. I've linked specific steps to Apple's documentation to provide you with more details.
 
+'''Note''': When this doc is rendered as html, it's best to read it (and use the links) via Safari.  Silly Apple Docs. 
+
 ### Prerequisites
 
 So let's start with the pre-requisites.  Some of this may seem obvious, but it's just helps to get this stuff cleared up before you actually sit down with the client.
