@@ -1,6 +1,3 @@
-Alright, apologies for the delay.   This is based upon an old text file I wrote for a previous client. I decided to double check it before passing it onto you and it turns out that it needed a bit of updating. Hence the delay. If you still find something not work or you have any questions about particular steps, please don't hesitate to ask.
-
-----
 
 This is going to be a little long. I've linked specific steps to Apple's documentation to provide you with more details.
 
