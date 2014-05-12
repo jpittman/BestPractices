@@ -1,7 +1,10 @@
 
 # How To Write A Good Issue
 
-This is a short guide to help folks write good issues when using Github's issue system.  Like any other bug/issue tracking system, understand how to best communicate what you need is critical to the developer on the receiving end of an issue.
+This is a short guide to help folks write good issues when using Github's issue system.  This will tackle specifically the tool GH provides.  For more general info on how to write a good bug report, check out Mike Hay's [blog post][1] about it.
+
+
+Like any other bug/issue tracking system, understand how to best communicate what you need is critical to the developer on the receiving end of an issue.
 
 Three things go into writing a good issue:
 
@@ -9,3 +12,4 @@ Three things go into writing a good issue:
  - Categorizing it correctly (task, enhancement or bug)
  - Describing it simply enough.
 
+[1]: http://mhay68.tumblr.com/post/1648223018/what-makes-a-good-bug-report "What Makes A Good Bug Report?"
