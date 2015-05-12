@@ -12,4 +12,4 @@ Three things go into writing a good issue:
  - Categorizing it correctly (task, enhancement or bug)
  - Describing it simply enough.
 
-[1]: http://mhay68.tumblr.com/post/1648223018/what-makes-a-good-bug-report "What Makes A Good Bug Report?"
+[1]: http://martiancraft.com/blog/2014/07/good-bug-reports/ "What Makes A Good Bug Report?"
